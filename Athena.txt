@@ -60,4 +60,4 @@ SELECT
  sourceipaddress,
  eventtime
 FROM cloudtrail_logs
-LIMIT 100;
+LIMIT 100;Awesome God from main
