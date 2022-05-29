@@ -53,7 +53,7 @@ LOCATION 's3://CloudTrail_bucket_name/AWSLogs/Account_ID/';
 
 
 
-Note: The above is for AWS Solutions Architects basically
+Note: The above syntax is for AWS Solutions Architects basically
 
 
 
