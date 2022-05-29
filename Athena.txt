@@ -50,19 +50,7 @@ STORED AS INPUTFORMAT 'com.amazon.emr.cloudtrail.CloudTrailInputFormat'
 OUTPUTFORMAT 'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
 LOCATION 's3://CloudTrail_bucket_name/AWSLogs/Account_ID/';
 
-QUERY STATEMENT:
 
-
-
-SELECT
- useridentity.arn,
- eventname,
- sourceipaddress,
- eventtime
-FROM cloudtrail_logs
-
-LIMIT 100;Awesome God from hub
->>>>>>> hub
 
 
 Note: The above is for AWS Solutions Architects basically
