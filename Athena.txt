@@ -65,5 +65,8 @@ LIMIT 100;Awesome God from hub
 >>>>>>> hub
 
 
+Note: The above is for AWS Solutions Architects basically
+
+
 
 
